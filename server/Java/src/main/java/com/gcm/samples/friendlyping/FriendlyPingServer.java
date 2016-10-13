@@ -83,8 +83,8 @@ public class FriendlyPingServer {
 
   private static final Logger logger = Logger.getLogger("FriendlyPingServer");
 
-  private static final String SENDER_ID = "<SENDER_ID>";
-  private static final String SERVER_API_KEY = "<SERVER_API_KEY>";
+  private static final String SENDER_ID = "979032030173";
+  private static final String SERVER_API_KEY = "AIzaSyB2h04mtqLpL2bBTg_3CT8YARDGVQ7JyxU";
 
   // Actions
   private static final String REGISTER_NEW_CLIENT = "register_new_client";
